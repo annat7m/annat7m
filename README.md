@@ -1,7 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ania 👋
+I'm a Computer Science & Math student at Pacific University.  
+I love building apps in Java, Swift, and web tech like React, which I'm currently learning.
+
+## 🔧 Technologies
+- Java, C/C++, Swift, React, HTML/CSS/JS
+- Android Studio, Xcode, Git
+
+## 📱 Featured Projects
+- [Campus Compass](https://github.com/annat7m/campus-compass)
+- [Veteran App](https://github.com/Yama9312/VetAppDraft)
+- [Bank](https://github.com/annat7m/bank)
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/anna-tymoshenko-b803172b6/)
+
 
 <!--
-**annat7m/annat7m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aniakuku/aniakuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
