@@ -10,6 +10,7 @@ I love building apps in Java, Swift, and web tech like React, which I'm currentl
 - [Campus Compass](https://github.com/annat7m/campus-compass)
 - [Veteran App](https://github.com/Yama9312/VetAppDraft)
 - [Bank](https://github.com/annat7m/bank)
+- [Travel Pal](https://github.com/annat7m/travel-pal)
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/anna-tymoshenko-b803172b6/)
