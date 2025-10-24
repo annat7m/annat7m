@@ -1,32 +1,37 @@
-# Hi, I'm Ania 👋
-I'm a Computer Science & Math student at Pacific University.  
-I love building apps in Java, Swift, and web tech like React, which I'm currently learning.
+<h1 align="center">Hi, I'm Ania 👋</h1>
+<p align="center">
+  CS & Math @ Pacific University  I love building apps in Java, Swift, and web tech like React, which I'm currently learning.
+</p>
 
-## 🔧 Technologies
-- Java, C/C++, Swift, React, HTML/CSS/JS
-- Android Studio, Xcode, Git
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,idea,swift,html,css,js,bootstrap,vite,react,c,cpp,python,latex,git" alt="Tech stack icons" />
+  </a>
+</p>
 
-## 📱 Featured Projects
-- [Campus Compass](https://github.com/annat7m/campus-compass)
-- [Veteran App](https://github.com/Yama9312/VetAppDraft)
-- [Bank](https://github.com/annat7m/bank)
-- [Travel Pal](https://github.com/annat7m/travel-pal)
+<p align="center">
+  <a href="https://github.com/annat7m">GitHub</a> ·
+  <a href="mailto:tymo7256@pacificu.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/anna-tymoshenko-b803172b6/">LinkedIn</a>
+</p>
 
-## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/anna-tymoshenko-b803172b6/)
+---
 
+### Featured Projects
+- 🎓 <a href="https://github.com/annat7m/campus-compass">Campus Compass</a> — iOS indoor navigation app for Pacific University (finds optimal paths, handles floor detection and building way-finding).
+- 🇺🇸 <a href="https://github.com/Yama9312/VetAppDraft">Veteran App</a> — Android app primerily made for US veterans to fight PTSD attacks (provides specific steps to follow that are predetermined by the practician and th veteran).
+- 🏦 <a href="https://github.com/annat7m/bank">Bank</a> — simulation project showcasing modular architecture, OOP patterns, and complex account operations.
+- ✈️ <a href="https://github.com/annat7m/travel-pal">Travel Pal</a> — Android app for travelers combining instant translation, weather forecasting, and journaling features.
 
-<!--
-**aniakuku/aniakuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Stats
+<p align="center">
+  <a href="https://github.com/annat7m">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=annat7m&show_icons=true&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://streak-stats.demolab.com/?user=annat7m&theme=dracula&hide_border=true" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
