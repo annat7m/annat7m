@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/annat7m">GitHub</a> ·
-  <a href="mailto:tymo7256@pacificu.edu">Email</a> ·
+  <a href="mailto:annatymoshenko117@gmail.com">annatymoshenko117@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/anna-tymoshenko-b803172b6/">LinkedIn</a>
 </p>
 
