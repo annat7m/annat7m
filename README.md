@@ -17,10 +17,11 @@
 ---
 
 ### Featured Projects
-- 🎓 <a href="https://github.com/annat7m/campus-compass">Campus Compass</a> — iOS indoor navigation app for Pacific University (finds optimal paths, handles floor detection and building way-finding).
-- 🇺🇸 <a href="https://github.com/Yama9312/VetAppDraft">Veteran App</a> — Android app primarily made for US veterans to fight PTSD attacks (provides specific steps to follow that are predetermined by the practician and the veteran).
-- 🏦 <a href="https://github.com/annat7m/bank">Bank</a> — simulation project showcasing modular architecture, OOP patterns, and complex account operations.
-- ✈️ <a href="https://github.com/annat7m/travel-pal">Travel Pal</a> — Android app for travelers combining instant translation, weather forecasting, and journaling features.
+- <a href="https://github.com/annat7m/campus-compass-admin">Campus Compass Admin & Analytics Platform</a> — full-stack web platform assumed to be used by university administrators to manage buildings, floors, rooms, and indoor navigation metadata, while monitoring usage analytics from the Campus Compass mobile app.
+- <a href="https://github.com/annat7m/campus-compass">Campus Compass</a> — iOS indoor navigation app for Pacific University (finds optimal paths, handles floor detection and building way-finding).
+- <a href="https://github.com/Yama9312/VetAppDraft">Veteran App</a> — Android app primarily made for US veterans to fight PTSD attacks (provides specific steps to follow that are predetermined by the practician and the veteran).
+- <a href="https://github.com/annat7m/bank">Bank</a> — simulation project showcasing modular architecture, OOP patterns, and complex account operations.
+- <a href="https://github.com/annat7m/travel-pal">Travel Pal</a> — Android app for travelers combining instant translation, weather forecasting, and journaling features.
 
 ---
 
