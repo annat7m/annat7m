@@ -28,10 +28,13 @@
 ### Stats
 <p align="center">
   <a href="https://github.com/annat7m">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=annat7m&show_icons=true&theme=dracula&hide_border=true" />
+    <img height="165"
+         src="https://github-readme-stats-one-bice.vercel.app/api?username=annat7m&show_icons=true&theme=dracula&hide_border=true" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com/?user=annat7m&theme=dracula&hide_border=true" />
+    <img height="165"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=annat7m&theme=dracula&hide_border=true" />
   </a>
 </p>
+
 
