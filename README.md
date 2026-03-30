@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,idea,swift,html,css,js,bootstrap,vite,react,c,cpp,python,latex,git" alt="Tech stack icons" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,idea,vercel,swift,html,js,react,c,cpp,python,sqlite,php,latex,git" alt="Tech stack icons" />
   </a>
 </p>
 
