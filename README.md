@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ania 👋</h1>
 <p align="center">
-  CS & Math @ Pacific University  I love building apps in Java, Swift, and web tech like React, which I'm currently learning.
+  CS & Math @ Pacific University &nbsp; | &nbsp; I love building apps using Java, Swift, and JavaScript using React!
 </p>
 
 <p align="center">
@@ -17,6 +17,10 @@
 ---
 
 ### Featured Projects
+- <a href="https://github.com/megan-ou/monty_planner">Monty Planner</a> — simple scheduler for complex projects that runs Monte Carlo simulation 10,000 times to predict the most accurate plan for your schedule.
+  - Monty planner placed 2nd Overall and 2nd in the Innovation track at the first intercollegiate hackathon in Portland - HackUP.
+  - Check out <a href="https://devpost.com/software/monty-planner">DevPost</a>!
+- <a href="https://github.com/Jakegallagher8/BoxerGO">Boxer Go!</a> — rideshare app for Pacific students, that ensures student safety by restricting rides to verified Pacific students only.
 - <a href="https://github.com/annat7m/campus-compass-admin">Campus Compass Admin & Analytics Platform</a> — full-stack web platform assumed to be used by university administrators to manage buildings, floors, rooms, and indoor navigation metadata, while monitoring usage analytics from the Campus Compass mobile app.
 - <a href="https://github.com/annat7m/campus-compass">Campus Compass</a> — iOS indoor navigation app for Pacific University (finds optimal paths, handles floor detection and building way-finding).
 - <a href="https://github.com/Yama9312/VetAppDraft">Veteran App</a> — Android app primarily made for US veterans to fight PTSD attacks (provides specific steps to follow that are predetermined by the practician and the veteran).
