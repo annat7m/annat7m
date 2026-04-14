@@ -17,7 +17,7 @@
 ---
 
 ### Featured Projects
-- <a href="https://github.com/megan-ou/monty_planner">Monty Planner</a> — simple scheduler for complex projects that runs Monte Carlo simulation 10,000 times to predict the most accurate plan for your schedule.
+- <a href="https://github.com/megan-ou/monty_planner">Monte Planner</a> — simple scheduler for complex projects that runs Monte Carlo simulation 10,000 times to predict the most accurate plan for your schedule.
   - Monty planner placed 2nd Overall and 2nd in the Innovation track at the first intercollegiate hackathon in Portland - HackUP.
   - Check out <a href="https://devpost.com/software/monty-planner">DevPost</a>!
 - <a href="https://github.com/Jakegallagher8/BoxerGO">Boxer Go!</a> — rideshare app for Pacific students, that ensures student safety by restricting rides to verified Pacific students only.
