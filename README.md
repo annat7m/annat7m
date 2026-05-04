@@ -18,10 +18,10 @@
 
 ### Featured Projects
 - <a href="https://github.com/FedyaS/PunchHarder">Punch Harder</a>: live boxing/self-defense couch. Puch Harder anylizes your form using the YOLOv8 image model that we trained and provides AI analytics on how you can improve using NVIDIA's nemotron-3-nano-omni-30b-a3b-reasoning (Nomni) model.
-  - Won 2nd place at BeaverHacks (OSU), NVIDIA Track - best use of Nemotron.
+  - Won __2nd place at BeaverHacks__ (OSU), NVIDIA Track - best use of Nemotron.
   - Check out the <a href="https://judge.beaverhacks.org/cmlfqho300000kv04wi9199a5/projects/cmoq6las8024dl5042xfh49vf">Beaver DevPost</a>!
 - <a href="https://github.com/megan-ou/monty_planner">Monte Planner</a>: simple scheduler for complex projects that runs Monte Carlo simulation 10,000 times to predict the most accurate plan for your schedule.
-  - Monty planner placed 2nd Overall and 2nd in the Innovation track at the first intercollegiate hackathon in Portland - HackUP.
+  - Monty planner placed __2nd Overall__ and __2nd in the Innovation track at HackUP__ - the first intercollegiate hackathon in Portland.
   - Check out <a href="https://devpost.com/software/monty-planner">DevPost</a>!
 - <a href="https://github.com/Jakegallagher8/BoxerGO">Boxer Go!</a> (private repo): rideshare app for Pacific students, that ensures student safety by restricting rides to verified Pacific students only.
 <!--- - <a href="https://github.com/annat7m/campus-compass-admin">Campus Compass Admin & Analytics Platform</a>: full-stack web platform assumed to be used by university administrators to manage buildings, floors, rooms, and indoor navigation metadata, while monitoring usage analytics from the Campus Compass mobile app.-->
