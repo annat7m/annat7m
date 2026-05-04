@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ania 👋</h1>
 <p align="center">
-  CS & Math @ Pacific University &nbsp; | &nbsp; I love building apps using Java, Swift, and JavaScript using React!
+  CS & Math @ Pacific University &nbsp; | &nbsp; I love building mobile and web apps that solve real problems.
 </p>
 
 <p align="center">
