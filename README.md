@@ -37,12 +37,13 @@
 -->
 <p align="center">
   <img
+    height="165"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=annat7m&show_icons=true&theme=dracula&hide_border=true"
   />
   <img
+    height="165"
     src="https://github-readme-streak-stats.herokuapp.com/?user=annat7m&theme=dracula&hide_border=true"
   />
-
 </p>
 
 
